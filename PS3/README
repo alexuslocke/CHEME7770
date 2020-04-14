@@ -1,1 +1,5 @@
+a) The xlsx file titled "Network" includes stoichiometric array that was created using the E.C numbers given in the question. The reactions were obtained from KEGG. These numbers were then transcribed to the Network.dat file for use in part c.
 
+b) The xlsx file titled "Balance" includes the number of elements in each metabolite. The elements involved were used to form an atom matrix. The checkbalances.jl file was used to verify that the stoichiometric array was balanced.
+
+c) The solve.jl file was used to find out the maximum production of urea. The Datadictionary.jl, Flux.jl,Include.jl,and Utility.jl files are included as they are required for the code to work. 
