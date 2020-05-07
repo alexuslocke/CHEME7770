@@ -1,1 +1,6 @@
-
+The document titled "CHEME 7770 PS5" includes solutions for all parts of the problems in the problem set.
+The coding for problems 2 and 3 can be found in their respective folders.
+The code files for problem 2, parts B and C, are titled the "PhasePortraitV2" and "PartsBC". This code is a modified version of the code provided by Professor Paszek. 
+The code files for Part D are Matlab files titled "Part D" and "osc." You must open osc and have it in the same directory for the "Part D" code to work and plot the ODEs.
+The code files for problem 3, parts B, are titled "PartB-1/2". This code is a modified version of the code provided by Professor Paszek. 
+The code file for Part D  Matlab files titled "Part D"
